@@ -333,7 +333,7 @@ section.main-section a:hover {
 .bold:hover {
     color: var(--1Tertiary);
     text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
-    font-weight: 200;
+    font-weight: 500;
 }
 
 .pirateKing:hover {
