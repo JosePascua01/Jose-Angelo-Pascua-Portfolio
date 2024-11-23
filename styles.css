@@ -342,6 +342,14 @@ section.main-section a:hover {
     cursor: url(assets/Cursors/Mario.png), auto;
 }
 
+.Ukulele:hover {
+    cursor: url(assets/Cursors/ukulele.png), auto;
+}
+
+.Singing:hover {
+    cursor: url(assets/Cursors/Singing.png), auto;
+}
+
 #hireMe {
     display: flex;
     width: 100%;
