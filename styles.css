@@ -263,7 +263,7 @@ section.item3 ul li a:hover {
 h1 {
     color: var(--1Tertiary);
     text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
-    font-size: 22rem;
+    font-size: 23rem;
     font-weight: 600;
 }
 
@@ -551,7 +551,6 @@ footer{
         border: 5px solid var(--1stroke);
         border-radius: 100%;
         box-shadow: none;
-        transition: transform 0.2s ease-in;
     }
 
     .item12 {
