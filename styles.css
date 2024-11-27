@@ -263,7 +263,7 @@ section.item3 ul li a:hover {
 h1 {
     color: var(--1Tertiary);
     text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
-    font-size: 23rem;
+    font-size: 22rem;
     font-weight: 600;
 }
 
